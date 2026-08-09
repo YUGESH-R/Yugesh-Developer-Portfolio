@@ -13,7 +13,7 @@
       "github": "https://github.com/YUGESH-R",
       "instagram": "https://instagram.com/iam_yugeshzz",
       "linkedin": "https://www.linkedin.com/in/yugeshr07",
-      "email": "your.username@gmail.com",
+      "email": "yugeshsaratha@gmail.com",
       "phone": "+91 9999999999",
       "website": "https://i'dont-know"
     }
@@ -50,42 +50,42 @@
 
   "experience": [
     {
-      "company": "TechNova Solutions",
-      "role": "Senior Software Engineer",
+      "company": "Corizo Edutech",
+      "role": "Intern",
       "period": "2023 — Present",
       "location": "Remote",
-      "summary": "Working on scalable AI-based backend systems and cloud-native architectures.",
+      "summary": "Designed user-friendly interfaces, created wireframes/prototypes.",
       "highlights": [
-        "Built distributed microservices using FastAPI and Docker",
-        "Implemented LLM-powered document processing pipeline",
-        "Reduced API latency by 60% through caching strategies",
-        "Designed event-driven architecture using AWS services"
+        "Designed user-friendly and responsive interfaces",
+        "Created wireframes, prototypes, and UI layouts",
+        "Applied user-centered design principles and usability practices",
+        "Improved skills in Figma, design thinking, and visual communication"
       ]
     },
     {
-      "company": "CloudEdge Pvt Ltd",
-      "role": "Software Engineer",
+      "company": "Corizo Edutech",
+      "role": "Data science intern",
       "period": "2021 — 2023",
-      "location": "Pune, India",
-      "summary": "Developed backend systems and optimized large-scale APIs.",
+      "location": "Remote",
+      "summary": " Performed data cleaning, exploratory data analysis, visualization, and extracted insights using Python and data science tools.",
       "highlights": [
-        "Improved system performance by 40%",
-        "Designed REST APIs for high-traffic applications",
-        "Integrated third-party payment systems",
-        "Handled deployments using CI/CD pipelines"
+        "Collected, cleaned, and analyzed real-world datasets",
+        "Performed exploratory data analysis (EDA)",
+        "Created data visualizations to identify meaningful insights",
+        "Used Python, Pandas, NumPy, and Matplotlib for data analysis"
       ]
     },
     {
-      "company": "DevStack Labs",
-      "role": "Junior Developer",
-      "period": "2019 — 2021",
-      "location": "Ahmedabad, India",
-      "summary": "Worked on full-stack applications and backend services.",
+      "company": "Corizo Edutech",
+      "role": "Machine Learning-Inter",
+      "period": "2026 - Present",
+      "location": "Remote",
+      "summary": "Developed and evaluated ML models, performed data preprocessing, feature engineering, and model optimizations.",
       "highlights": [
-        "Built CRUD-based applications using Django",
-        "Maintained MySQL databases",
-        "Collaborated with frontend teams",
-        "Fixed production bugs and improved stability"
+        "Developed and implemented machine learning models",
+        "Performed data preprocessing and feature engineering",
+        "Trained, evaluated, and optimized ML models",
+        "Gained hands-on experience with Python and Scikit-learn"
       ]
     }
   ],
@@ -93,25 +93,25 @@
   "projects": [
     {
       "id": "ai-platform",
-      "title": "AI Document Analyzer",
-      "subtitle": "LLM-powered document processing",
-      "description": "A platform that extracts, analyzes, and summarizes documents using AI models.",
-      "stack": ["Python", "FastAPI", "OpenAI", "PostgreSQL"],
-      "role": "Backend Developer",
-      "year": "2024",
-      "link": "",
+      "title": "Image Caption Generator AI",
+      "subtitle": "Model Training and Deployment",
+      "description": "A platform that analyzes images and generates captions using AI models.",
+      "stack": ["Python", "FastAPI", "OpenAI", "SQL"],
+      "role": "ML Developer",
+      "year": "2025",
+      "link": "https://github.com/YUGESH-R/Image-Caption-Generator-AI.git",
       "image": "https://motionsites.ai/assets/hero-space-voyage-preview-eECLH3Yc.gif",
       "highlight": true
     },
     {
       "id": "ecommerce",
-      "title": "E-commerce Backend",
-      "subtitle": "Scalable order management system",
-      "description": "Backend system handling orders, payments, and inventory.",
-      "stack": ["Node.js", "MongoDB", "AWS"],
-      "role": "Backend Engineer",
-      "year": "2023",
-      "link": "",
+      "title": "Multimodel Agentic Assistant for Visually Impaired People",
+      "subtitle": "AI-Powered Multimodal Assistant for Everyday Assistance.",
+      "description": "Developed an Intelligent assistant for visually impaired individuals.",
+      "stack": ["Flutter", "Python", "NLP/LLM"],
+      "role": "Application Developer",
+      "year": "2026",
+      "link": "https://github.com/YUGESH-R/Multimodel-Agentic-Assisant.git",
       "image": "https://motionsites.ai/assets/hero-codenest-preview-Cgppc2qV.gif"
     },
     {
@@ -121,7 +121,7 @@
       "description": "Modern portfolio website built with React and Tailwind.",
       "stack": ["React", "Next.js", "Tailwind"],
       "role": "Frontend Developer",
-      "year": "2022",
+      "year": "2026",
       "link": "",
       "image": "https://motionsites.ai/assets/hero-vex-ventures-preview-BczMFIiw.gif"
     }
@@ -129,33 +129,33 @@
 
   "education": [
     {
-      "institution": "National Institute of Technology",
+      "institution": "PARK College of Technology",
       "location": "India",
-      "degree": "B.Tech in Computer Science",
-      "period": "2015 — 2019"
+      "degree": "B.Tech in Artificial Intelligence and Data Science",
+      "period": "2023 — 2027"
     }
   ],
 
   "testimonials": [
     {
       "id": "t1",
-      "quote": "An exceptional engineer who delivers scalable solutions with precision.",
-      "name": "Amit Sharma",
-      "role": "Engineering Manager",
+      "quote": "Programs must be written for people to read, and only incidentally for machines to execute.",
+      "name": "Harold Abelson",
+      "role": "Computer Scientist, MIT",
       "avatarColor": "#8b5cf6"
     },
     {
       "id": "t2",
-      "quote": "Highly reliable and always focused on performance and quality.",
-      "name": "Neha Gupta",
-      "role": "Tech Lead",
+      "quote": "Simplicity is prerequisite for reliability.",
+      "name": "Edsger W. Dijkstra",
+      "role": "Computer Scientist",
       "avatarColor": "#ec4899"
     },
     {
       "id": "t3",
-      "quote": "Strong problem-solving skills and great attention to detail.",
-      "name": "Rahul Verma",
-      "role": "Product Manager",
+      "quote": "The best way to predict the future is to invent it",
+      "name": "Alan Kay",
+      "role": "Computer Scientist",
       "avatarColor": "#a855f7"
     }
   ]
