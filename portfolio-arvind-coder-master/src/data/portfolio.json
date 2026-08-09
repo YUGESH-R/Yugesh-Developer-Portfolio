@@ -1,0 +1,162 @@
+{
+  "profile": {
+    "name": "Yugesh Developer",
+    "shortName": "Yugesh",
+    "tagline": "Data engineer building scalable platforms, AI-driven tools, and modern web apps.",
+    "role": "Data Engineer",
+    "specialization": "Backend · AI Systems · Cloud Architecture",
+    "location": "Coimbatore, India",
+    "yearsOfExperience": "1+",
+    "bio": "I build production-grade backend systems and AI-powered platforms. Experienced in designing scalable APIs, cloud-native architectures, and data pipelines. Currently working on intelligent automation systems using LLMs and distributed systems.",
+    "avatarSvg": "/src/assets/img/avatar.svg",
+    "social": {
+      "github": "https://github.com/YUGESH-R",
+      "instagram": "https://instagram.com/iam_yugeshzz",
+      "linkedin": "https://www.linkedin.com/in/yugeshr07",
+      "email": "your.username@gmail.com",
+      "phone": "+91 9999999999",
+      "website": "https://i'dont-know"
+    }
+  },
+
+  "skills": {
+    "categories": [
+      {
+        "name": "Languages",
+        "items": ["Python", "JavaScript", "TypeScript", "Go"]
+      },
+      {
+        "name": "Backend",
+        "items": ["FastAPI", "Django", "Node.js", "Express"]
+      },
+      {
+        "name": "AI / LLM",
+        "items": ["Prompt Engineering", "RAG", "Vector Search", "LangChain"]
+      },
+      {
+        "name": "Frontend",
+        "items": ["React", "Next.js", "Tailwind CSS"]
+      },
+      {
+        "name": "Databases",
+        "items": ["PostgreSQL", "MongoDB", "Redis"]
+      },
+      {
+        "name": "Cloud & Infra",
+        "items": ["AWS", "Docker", "Kubernetes", "Lambda"]
+      }
+    ]
+  },
+
+  "experience": [
+    {
+      "company": "TechNova Solutions",
+      "role": "Senior Software Engineer",
+      "period": "2023 — Present",
+      "location": "Remote",
+      "summary": "Working on scalable AI-based backend systems and cloud-native architectures.",
+      "highlights": [
+        "Built distributed microservices using FastAPI and Docker",
+        "Implemented LLM-powered document processing pipeline",
+        "Reduced API latency by 60% through caching strategies",
+        "Designed event-driven architecture using AWS services"
+      ]
+    },
+    {
+      "company": "CloudEdge Pvt Ltd",
+      "role": "Software Engineer",
+      "period": "2021 — 2023",
+      "location": "Pune, India",
+      "summary": "Developed backend systems and optimized large-scale APIs.",
+      "highlights": [
+        "Improved system performance by 40%",
+        "Designed REST APIs for high-traffic applications",
+        "Integrated third-party payment systems",
+        "Handled deployments using CI/CD pipelines"
+      ]
+    },
+    {
+      "company": "DevStack Labs",
+      "role": "Junior Developer",
+      "period": "2019 — 2021",
+      "location": "Ahmedabad, India",
+      "summary": "Worked on full-stack applications and backend services.",
+      "highlights": [
+        "Built CRUD-based applications using Django",
+        "Maintained MySQL databases",
+        "Collaborated with frontend teams",
+        "Fixed production bugs and improved stability"
+      ]
+    }
+  ],
+
+  "projects": [
+    {
+      "id": "ai-platform",
+      "title": "AI Document Analyzer",
+      "subtitle": "LLM-powered document processing",
+      "description": "A platform that extracts, analyzes, and summarizes documents using AI models.",
+      "stack": ["Python", "FastAPI", "OpenAI", "PostgreSQL"],
+      "role": "Backend Developer",
+      "year": "2024",
+      "link": "",
+      "image": "https://motionsites.ai/assets/hero-space-voyage-preview-eECLH3Yc.gif",
+      "highlight": true
+    },
+    {
+      "id": "ecommerce",
+      "title": "E-commerce Backend",
+      "subtitle": "Scalable order management system",
+      "description": "Backend system handling orders, payments, and inventory.",
+      "stack": ["Node.js", "MongoDB", "AWS"],
+      "role": "Backend Engineer",
+      "year": "2023",
+      "link": "",
+      "image": "https://motionsites.ai/assets/hero-codenest-preview-Cgppc2qV.gif"
+    },
+    {
+      "id": "portfolio",
+      "title": "Developer Portfolio",
+      "subtitle": "Personal website",
+      "description": "Modern portfolio website built with React and Tailwind.",
+      "stack": ["React", "Next.js", "Tailwind"],
+      "role": "Frontend Developer",
+      "year": "2022",
+      "link": "",
+      "image": "https://motionsites.ai/assets/hero-vex-ventures-preview-BczMFIiw.gif"
+    }
+  ],
+
+  "education": [
+    {
+      "institution": "National Institute of Technology",
+      "location": "India",
+      "degree": "B.Tech in Computer Science",
+      "period": "2015 — 2019"
+    }
+  ],
+
+  "testimonials": [
+    {
+      "id": "t1",
+      "quote": "An exceptional engineer who delivers scalable solutions with precision.",
+      "name": "Amit Sharma",
+      "role": "Engineering Manager",
+      "avatarColor": "#8b5cf6"
+    },
+    {
+      "id": "t2",
+      "quote": "Highly reliable and always focused on performance and quality.",
+      "name": "Neha Gupta",
+      "role": "Tech Lead",
+      "avatarColor": "#ec4899"
+    },
+    {
+      "id": "t3",
+      "quote": "Strong problem-solving skills and great attention to detail.",
+      "name": "Rahul Verma",
+      "role": "Product Manager",
+      "avatarColor": "#a855f7"
+    }
+  ]
+}
