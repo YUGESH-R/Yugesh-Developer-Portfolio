@@ -2,7 +2,7 @@ import Navbar from './Navbar';
 import SocialLinks from './SocialLinks';
 import FadeIn from './FadeIn';
 import Magnet from './Magnet';
-import arvindPortrait from '../assets/img/arvind_2.png';
+import arvindPortrait from '../assets/img/yugesh_portfolio2.png';
 
 export default function HeroSection() {
   return (
