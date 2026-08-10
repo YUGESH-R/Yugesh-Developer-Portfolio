@@ -4,8 +4,8 @@ const services = [
   // TODO: Move these service categories into portfolio.json when the data schema is expanded.
   {
     number: '01',
-    name: 'Backend Engineering',
-    description: 'Production-grade APIs, FastAPI/Django services, async pipelines, and the database design that holds it all together.',
+    name: 'Data Engineering',
+    description: 'Python, SQL, Power BI, MongoDB, Docker, FastAPI and Apache.',
   },
   {
     number: '02',
@@ -19,8 +19,8 @@ const services = [
   },
   {
     number: '04',
-    name: 'Cloud & DevOps',
-    description: 'AWS, GCP, serverless architectures, CI/CD pipelines, and the boring infrastructure work that makes everything else possible.',
+    name: 'Backend Engineering',
+    description: 'Production-grade APIs, FastAPI/Django services, async pipelines, and the database design that holds it all together.',
   },
 ];
 
@@ -36,7 +36,7 @@ export default function ServicesSection() {
           className="font-black uppercase leading-none tracking-tight text-center w-full mb-16 sm:mb-20 md:mb-28"
           style={{ fontSize: 'clamp(3rem, 12vw, 160px)', color: '#0C0C0C' }}
         >
-          Services
+          Skills
         </h2>
       </FadeIn>
 

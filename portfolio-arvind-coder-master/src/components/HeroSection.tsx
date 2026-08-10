@@ -15,9 +15,9 @@ export default function HeroSection() {
         <FadeIn delay={0.15} y={40} className="mt-6 sm:mt-4 md:-mt-5 overflow-hidden">
           <h1
             className="hero-heading font-black uppercase leading-none tracking-tight whitespace-nowrap w-full"
-            style={{ fontSize: 'clamp(3rem, 14vw, 14.5rem)' }}
+            style={{ fontSize: 'clamp(3rem, 11vw, 14.5rem)' }}
           >
-            Hi, i&apos;m Arvind
+            Hi, i&apos;m Yugesh
           </h1>
         </FadeIn>
 
@@ -26,11 +26,11 @@ export default function HeroSection() {
         <div className="relative flex justify-between items-end pb-7 sm:pb-8 md:pb-10">
           <FadeIn delay={0.35} y={20}>
             <p
-              className="text-[#D7E2EA] font-light uppercase tracking-wide leading-snug max-w-[160px] sm:max-w-[220px] md:max-w-[260px]"
+              className="text-[#dcd9dd] font-light uppercase tracking-wide leading-snug max-w-[160px] sm:max-w-[220px] md:max-w-[260px]"
               style={{ fontSize: 'clamp(0.75rem, 1.4vw, 1.5rem)' }}
             >
-              Senior software engineer building AI-powered platforms, scalable backends, and the occasional web project for the people I love.
-            </p>
+              AI & Data Science engineering student focused on Python, Data Science, Full-Stack Development and AI projects with a strong interest in building impactful technology and securing a high-growth career.
+              </p>
           </FadeIn>
 
           <FadeIn

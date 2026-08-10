@@ -1,6 +1,6 @@
-# Arvind Singh Portfolio
+# Yugesh Portfolio
 
-A dark, motion-forward personal portfolio for Arvind Singh, built with React, TypeScript, Vite, Tailwind CSS, Framer Motion, and Lucide icons.
+A dark, motion-forward personal portfolio for Yugesh, built with React, TypeScript, Vite, Tailwind CSS, Framer Motion, and Lucide icons.
 
 The site is data-driven from `src/data/portfolio.json`, so profile copy, social links, experience, projects, and testimonials can be updated without changing the component code.
 

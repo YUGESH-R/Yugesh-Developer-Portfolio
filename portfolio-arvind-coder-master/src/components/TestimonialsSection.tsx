@@ -59,10 +59,10 @@ export default function TestimonialsSection() {
               What People Say
             </h2>
             <span className="testimonial-emoji absolute left-[4%] top-[-18%] rotate-[-14deg] text-3xl sm:text-5xl">
-              🤩
+              😸
             </span>
             <span className="testimonial-emoji testimonial-emoji-delay absolute right-[12%] top-[-10%] rotate-[10deg] text-2xl sm:text-4xl">
-              💎
+              🐦‍🔥
             </span>
             <span className="testimonial-emoji absolute bottom-[-14%] right-[4%] rotate-[-8deg] text-3xl sm:text-5xl">
               🚀
