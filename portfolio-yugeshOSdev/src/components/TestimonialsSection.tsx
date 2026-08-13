@@ -54,11 +54,11 @@ export default function TestimonialsSection() {
           <div className="relative mb-14 sm:mb-16 md:mb-20">
             <h2
               className="hero-heading font-black uppercase leading-none tracking-tight text-center w-full"
-              style={{ fontSize: 'clamp(3rem, 11vw, 150px)' }}
+              style={{ fontSize: 'clamp(3rem, 13vw, 155px)' }}
             >
               What People Say
             </h2>
-            <span className="testimonial-emoji absolute left-[4%] top-[-18%] rotate-[-14deg] text-3xl sm:text-5xl">
+            <span className="testimonial-emoji absolute left-[4%] bottom-[-18%] rotate-[-14deg] text-3xl sm:text-5xl">
               😸
             </span>
             <span className="testimonial-emoji testimonial-emoji-delay absolute right-[12%] top-[-10%] rotate-[10deg] text-2xl sm:text-4xl">

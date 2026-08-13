@@ -15,7 +15,7 @@ export default function HeroSection() {
         <FadeIn delay={0.15} y={40} className="mt-6 sm:mt-4 md:-mt-5 overflow-hidden">
           <h1
             className="hero-heading font-black uppercase leading-none tracking-tight whitespace-nowrap w-full"
-            style={{ fontSize: 'clamp(3rem, 11vw, 14.5rem)' }}
+            style={{ fontSize: 'clamp(3rem, 11.25vw, 14.5rem)' }}
           >
             Hi, i&apos;m Yugesh
           </h1>
@@ -29,7 +29,7 @@ export default function HeroSection() {
               className="text-[#dcd9dd] font-light uppercase tracking-wide leading-snug max-w-[160px] sm:max-w-[220px] md:max-w-[260px]"
               style={{ fontSize: 'clamp(0.75rem, 1.4vw, 1.5rem)' }}
             >
-              AI & Data Science engineering student focused on Python, Data Science, Full-Stack Development and AI projects with a strong interest in building impactful technology and securing a high-growth career.
+              Passionate AI & Data Science Engineering student building impactful real-world solutions across ML, data pipelines and intuitive product design driven to grow into a high impact deep-tech career.
               </p>
           </FadeIn>
 

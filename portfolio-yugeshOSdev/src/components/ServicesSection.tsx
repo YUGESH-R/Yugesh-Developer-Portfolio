@@ -5,7 +5,7 @@ const services = [
   {
     number: '01',
     name: 'Data Engineering',
-    description: 'Python, SQL, Power BI, MongoDB, Docker, FastAPI and Apache.',
+    description: 'Python, SQL, Power BI, MongoDB, Docker and FastAPI.',
   },
   {
     number: '02',
@@ -20,7 +20,7 @@ const services = [
   {
     number: '04',
     name: 'Backend Engineering',
-    description: 'Production-grade APIs, FastAPI/Django services, async pipelines, and the database design that holds it all together.',
+    description: 'Production-grade APIs, Django services, async pipelines, and the database design that holds it all together.',
   },
 ];
 

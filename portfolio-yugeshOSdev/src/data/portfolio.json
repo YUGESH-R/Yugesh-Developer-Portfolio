@@ -1,6 +1,6 @@
 {
   "profile": {
-    "name": "Yugesh Developer",
+    "name": "Yugesh Coder",
     "shortName": "Yugesh",
     "tagline": "Data engineer building scalable platforms, AI-driven tools, and modern web apps.",
     "role": "Data Engineer",
@@ -51,23 +51,23 @@
   "experience": [
     {
       "company": "Corizo Edutech",
-      "role": "Intern",
-      "period": "2023 — Present",
+      "role": "Machine Learning Intern",
+      "period": "2025 - may",
       "location": "Remote",
-      "summary": "Designed user-friendly interfaces, created wireframes/prototypes.",
+      "summary": "Built a customer segmentation model using clustering algorithms to group mall customers by purchasing behavior for targeted marketing insights.",
       "highlights": [
-        "Designed user-friendly and responsive interfaces",
-        "Created wireframes, prototypes, and UI layouts",
-        "Applied user-centered design principles and usability practices",
-        "Improved skills in Figma, design thinking, and visual communication"
+        "Gained hands-on experience with Python and Scikit-learn ",
+        "Performed data preprocessing and feature engineering",
+        "Trained, evaluated, and optimized ML models",
+        "Developed and implemented machine learning models"
       ]
     },
     {
       "company": "Corizo Edutech",
-      "role": "Data science intern",
-      "period": "2021 — 2023",
+      "role": "Data Science Intern",
+      "period": "2026 - january",
       "location": "Remote",
-      "summary": " Performed data cleaning, exploratory data analysis, visualization, and extracted insights using Python and data science tools.",
+      "summary": "Designed and implemented a multidimensional data processing pipeline to clean, transform, and analyze complex datasets for deeper analytical insights.",
       "highlights": [
         "Collected, cleaned, and analyzed real-world datasets",
         "Performed exploratory data analysis (EDA)",
@@ -77,15 +77,15 @@
     },
     {
       "company": "Corizo Edutech",
-      "role": "Machine Learning-Inter",
-      "period": "2026 - Present",
+      "role": "UI/UX Design Intern",
+      "period": "2025 - September",
       "location": "Remote",
-      "summary": "Developed and evaluated ML models, performed data preprocessing, feature engineering, and model optimizations.",
+      "summary": "Designed a financial app dashboard in Figma, focusing on intuitive navigation and clear data visualization for end users.",
       "highlights": [
-        "Developed and implemented machine learning models",
-        "Performed data preprocessing and feature engineering",
-        "Trained, evaluated, and optimized ML models",
-        "Gained hands-on experience with Python and Scikit-learn"
+        "Designed user-friendly and responsive interfaces",
+        "Created wireframes, prototypes, and UI layouts",
+        "Applied user-centered design principles and usability practices",
+        "Improved skills in Figma, design thinking, and visual communication"
       ]
     }
   ],
