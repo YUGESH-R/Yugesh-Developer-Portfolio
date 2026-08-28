@@ -1,30 +1,25 @@
 import FadeIn from './FadeIn';
-
-const services = [
-  // TODO: Move these service categories into portfolio.json when the data schema is expanded.
-  {
-    number: '01',
-    name: 'Data Engineering',
-    description: 'Python, SQL, Power BI, MongoDB, Docker and FastAPI.',
-  },
-  {
-    number: '02',
-    name: 'AI / LLM Systems',
-    description: 'LLM extraction pipelines, semantic matching, RAG architectures, and prompt design for production reliability.',
-  },
-  {
-    number: '03',
-    name: 'Frontend Development',
-    description: "React and Next.js applications with TypeScript, Tailwind, and motion design that doesn't get in the way.",
-  },
-  {
-    number: '04',
-    name: 'Backend Engineering',
-    description: 'Production-grade APIs, Django services, async pipelines, and the database design that holds it all together.',
-  },
-];
+import { usePortfolio } from '../hooks/usePortfolio';
 
 export default function ServicesSection() {
+  const services = [
+    {
+      number: '01',
+      name: 'Frontend Development',
+      description: 'Building responsive, accessible, and engaging user interfaces.',
+    },
+    {
+      number: '02',
+      name: 'Backend Development',
+      description: 'Creating reliable APIs and scalable server-side applications.',
+    },
+    {
+      number: '03',
+      name: 'UI/UX Design',
+      description: 'Designing clear, intuitive experiences centered around users.',
+    },
+  ];
+
   return (
     <section
       id="skills"
@@ -41,7 +36,7 @@ export default function ServicesSection() {
       </FadeIn>
 
       <div className="flex flex-col w-full items-center">
-        {services.map((service, i) => (
+        {services.map((service: { number: string; name: string; description: string }, i) => (
           <FadeIn
             key={service.number}
             delay={i * 0.1}

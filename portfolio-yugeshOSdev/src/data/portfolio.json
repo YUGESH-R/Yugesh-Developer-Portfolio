@@ -15,7 +15,7 @@
       "linkedin": "https://www.linkedin.com/in/yugeshr07",
       "email": "yugeshsaratha@gmail.com",
       "phone": "",
-      "website": "https://i'dont-know"
+      "website": ""
     }
   },
 
@@ -158,5 +158,27 @@
       "role": "Computer Scientist",
       "avatarColor": "#a855f7"
     }
-  ]
+  ],
+  "services": [
+  {
+    "number": "01",
+    "name": "Data Engineering",
+    "description": "Python, SQL, Power BI, MongoDB, Docker and FastAPI."
+  },
+  {
+    "number": "02",
+    "name": "AI / LLM Systems",
+    "description": "LLM extraction pipelines, semantic matching, RAG architectures, and prompt design for production reliability."
+  },
+  {
+    "number": "03",
+    "name": "Frontend Development",
+    "description": "React and Next.js applications with TypeScript, Tailwind, and motion design that doesn't get in the way."
+  },
+  {
+    "number": "04",
+    "name": "Backend Engineering",
+    "description": "Production-grade APIs, Django services, async pipelines, and the database design that holds it all together."
+  }
+]
 }

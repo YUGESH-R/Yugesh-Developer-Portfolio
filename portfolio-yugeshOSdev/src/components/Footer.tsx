@@ -79,7 +79,9 @@ export default function Footer() {
                 {copied ? <Check className="h-3.5 w-3.5" /> : <Copy className="h-3.5 w-3.5" />}
               </button>
             </div>
-            <p className="text-sm sm:text-base">{profile.social.phone}</p>
+            {profile.social.phone ? (
+  <p className="text-sm sm:text-base">{profile.social.phone}</p>
+) : null}
           </div>
 
           <SocialLinks className="flex-wrap" />
@@ -89,7 +91,7 @@ export default function Footer() {
       <div className="mx-auto mt-14 max-w-6xl border-t border-[#D7E2EA]/10 pt-6 md:mt-20">
         <div className="flex flex-col gap-2 text-xs uppercase tracking-widest text-[#D7E2EA]/40 md:flex-row md:items-center md:justify-between">
           <p>© 2026 Yugesh. Crafted with care.</p>
-          <p>Built with Next.js · Designed for the long run</p>
+          <p>Built with React & Vite · Designed for the long run</p>
         </div>
       </div>
     </footer>

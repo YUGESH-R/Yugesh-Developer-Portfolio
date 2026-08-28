@@ -80,3 +80,8 @@ export interface NavItem {
   label: string;
   href: string;
 }
+export interface ServiceItem {
+  number: string;
+  name: string;
+  description: string;
+}

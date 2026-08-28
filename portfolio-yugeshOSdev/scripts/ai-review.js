@@ -1,6 +1,6 @@
-const { execSync } = require("child_process");
-const { Octokit } = require("@octokit/rest");
-const OpenAI = require("openai");
+import { execSync } from "child_process";
+import { Octokit } from "@octokit/rest";
+import OpenAI from "openai";
 
 const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY,
