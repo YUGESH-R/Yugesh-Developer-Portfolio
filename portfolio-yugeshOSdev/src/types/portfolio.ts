@@ -5,7 +5,8 @@ export interface Portfolio {
   projects: Project[];
   testimonials?: Testimonial[];
   education: EducationItem[];
-  nav: NavItem[];
+  services: ServiceItem[];
+  nav?: NavItem[];
 }
 
 export interface Profile {
