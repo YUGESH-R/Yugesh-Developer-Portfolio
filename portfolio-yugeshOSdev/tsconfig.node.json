@@ -5,7 +5,7 @@
     "skipLibCheck": true,
     "module": "ESNext",
     "moduleResolution": "node",
-    "ignoreDeprecations": "6.0",
+    "ignoreDeprecations": "5.0",
     "allowSyntheticDefaultImports": true,
     "strict": true
   },
